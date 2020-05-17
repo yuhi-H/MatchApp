@@ -15,7 +15,7 @@ gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 gem "font-awesome-sass"
 gem 'carrierwave', '~> 1.0'
-
+gem 'mini_magick'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
