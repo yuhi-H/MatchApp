@@ -1,6 +1,6 @@
 # マッチングアプリ
 
-## 具体的に使用してみた技術
+## 主に使用した技術技術
 * jTinder
 * Action_cable
 * carrierwave
